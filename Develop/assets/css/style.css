@@ -97,14 +97,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*
-.benefits {
-    margin-bottom: 32px;
-    color: #ffffff;
-    margin-bottom: 10px;
-    text-align: center;
-    
-}*/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -168,4 +161,9 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+
+.example-css {
+    background-color: red;
 }
